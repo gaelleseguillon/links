@@ -35,7 +35,7 @@ html {
 .post {
   font-weight: 500;
   font-size: 18px;
-  margin: 4px 16px 0;
+  margin: 4px 16px 32px;
   opacity: .8;
 }
 
